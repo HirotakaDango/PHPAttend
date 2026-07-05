@@ -3,8 +3,7 @@
 A lightweight, robust, and mobile-friendly web application for tracking employee attendance. 
 
 ## Screenshot
-<img width="531" height="1024" alt="f7341df6-31dc-44a0-af13-eb787853034f" src="https://github.com/user-attachments/assets/248c946b-7b72-4ab0-8ea8-ee0d91cdc97a" />
-
+<img width="531" height="1024" alt="IMG-20260706-WA0000" src="https://github.com/user-attachments/assets/ba83be6a-fbe7-4750-bec3-359456c1ee4d" />
 
 ## Features
 - **GPS-Based Tracking**: Verifies employee location strictly using High-Accuracy GPS hardware.
